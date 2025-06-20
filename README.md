@@ -45,15 +45,6 @@ I'm **Musfira Ahmed**, a passionate Software Engineering student with a deep int
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiraahmed&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiraahmed&layout=compact&theme=radical" width="48%" />
-</div>
-
----
-
 ## 🚀 Career Goals
 
 I aim to grow into a professional **AI/ML Engineer**, where I can:
