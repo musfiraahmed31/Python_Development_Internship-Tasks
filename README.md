@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I’m **Musfira Ahmed**, a passionate Software Engineering student with a deep interest in **Artificial Intelligence and Machine Learning**. I enjoy exploring how intelligent systems can transform the world and thrive in environments that challenge my problem-solving and creative skills. From building object-oriented projects to diving into AI algorithms, I believe in continuous learning and applying knowledge through impactful tech solutions.
+I'm **Musfira Ahmed**, a passionate Software Engineering student with a deep interest in **Artificial Intelligence and Machine Learning**. I enjoy exploring how intelligent systems can transform the world and thrive in environments that challenge my problem-solving and creative skills. From building object-oriented projects to diving into AI algorithms, I believe in continuous learning and applying knowledge through impactful tech solutions.
 
 ---
 
@@ -82,7 +82,6 @@ I aim to grow into a professional **AI/ML Engineer**, where I can:
 ## 📫 Let's Connect
 
 - 📧 **Email**: [ahmedmusfira3@gmail.com](mailto:ahmedmusfira3@gmail.com)  
-- 🔗 *(LinkedIn / Portfolio coming soon)*
 
 ---
 
@@ -90,4 +89,4 @@ I aim to grow into a professional **AI/ML Engineer**, where I can:
 
 > *"Intelligence is the ability to adapt to change." – Stephen Hawking*
 
-Thanks for visiting my GitHub! Let’s innovate, collaborate, and create something impactful together 💡🚀
+Thanks for visiting my GitHub! Let's innovate, collaborate, and create something impactful together 💡🚀
