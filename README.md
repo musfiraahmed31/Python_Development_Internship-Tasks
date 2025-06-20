@@ -25,7 +25,6 @@ I'm **Musfira Ahmed**, a passionate Software Engineering student with a deep int
 ### 💻 Languages & Frameworks
 - **Python** – Core programming, Machine Learning, Automation
 - **C++** – OOP, Logic Building
-- **HTML | CSS | JavaScript** – Web fundamentals
 - **SQL (MySQL)** – Databases and queries
 
 ### 🔍 Focus Areas
@@ -61,10 +60,6 @@ I aim to grow into a professional **AI/ML Engineer**, where I can:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
