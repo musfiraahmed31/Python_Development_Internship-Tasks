@@ -67,7 +67,7 @@ I aim to grow into a professional **AI/ML Engineer**, where I can:
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: [ahmedmusfira3@gmail.com](mailto:ahmedmusfira3@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-ahmedmusfira3@gmail.com-red?style=flat-square&logo=gmail)](mailto:ahmedmusfira3@gmail.com)
 
 ---
 
