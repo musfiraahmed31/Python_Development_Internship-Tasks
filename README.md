@@ -16,7 +16,6 @@ I'm **Musfira Ahmed**, a passionate Software Engineering student with a deep int
 
 - **📚 Library Management System** – A C++ OOP-based software to manage book lending, returns, and inventory tracking.
 - **🚪 Automatic Door Sensor** – A smart sensor project designed for real-time automation using hardware simulation.
-- *(More projects coming soon...)*
 
 ---
 
