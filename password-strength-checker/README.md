@@ -4,7 +4,9 @@ An interactive web app built with **Gradio** in **Python** that evaluates the st
 
 ## 🔍 Preview
 
-![Password Strength Checker Screenshot](password_checker_screenshot.png)
+## 🔍 Preview
+
+![App Screenshot](screenshot.png)
 
 ---
 
