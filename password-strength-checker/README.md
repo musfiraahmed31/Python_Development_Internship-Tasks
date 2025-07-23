@@ -2,12 +2,6 @@
 
 An interactive web app built with **Gradio** in **Python** that evaluates the strength of user-entered passwords based on length, character diversity, and complexity. It provides real-time feedback, suggestions for improvement, and examples of strong passwords.
 
-## 🔍 Preview
-
-## 🔍 Preview
-
-![App Screenshot](screenshot.png)
-
 ---
 
 ## 🚀 Live Demo
@@ -100,12 +94,6 @@ You can deploy it easily on:
 Want help deploying? Message or raise an issue!
 
 ---
-
-## 📸 Screenshot
-
-## 🔍 Preview
-
-![Password Strength Checker Screenshot](password_checker_screenshot.png)
 
 ---
 
