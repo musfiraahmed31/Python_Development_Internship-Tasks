@@ -51,7 +51,8 @@ You can launch this project locally using Python, or host it for free on [Huggin
 
 ### 🔧 Requirements
 - Python 3.7+
-- pip
+- pip install streamlit
+
 
 ### ⏬ Steps
 ```bash
